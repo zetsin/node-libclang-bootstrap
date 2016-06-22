@@ -1,8 +1,16 @@
 {
-  "name": "node-libclang-bootstrap",
-  "version": "1.0.0",
-  "description": "",
+  "name": "libclang-bootstrap",
+  "version": "0.1.0",
   "main": "index.js",
+  "dependencies": {
+    "ffi": "^2.0.0",
+    "ref-array": "^1.1.2",
+    "ref-union": "^1.0.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/zetsingithub/node-libclang-bootstrap/issues"
   },
-  "homepage": "https://github.com/zetsingithub/node-libclang-bootstrap#readme"
+  "homepage": "https://github.com/zetsingithub/node-libclang-bootstrap#readme",
+  "description": ""
 }
