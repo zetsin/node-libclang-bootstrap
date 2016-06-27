@@ -41,3 +41,5 @@ jspm_packages
 !/public/download/README.md
 /public/downloading/*
 !/public/downloading/YOUWILLNOTREADME.md
+
+.dylib
