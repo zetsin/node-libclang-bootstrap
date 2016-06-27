@@ -42,4 +42,4 @@ jspm_packages
 /public/downloading/*
 !/public/downloading/YOUWILLNOTREADME.md
 
-.dylib
+*.dylib
